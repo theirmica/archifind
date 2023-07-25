@@ -6,7 +6,7 @@ from IPython.display import HTML
 
 import streamlit as st
 import time
-from st_aggrid import AgGrid
+from streamlit_aggrid import AgGrid
 
 #loading functions 
 from distance_functions import get_user_location, filter_df, calculate_closest_locations, create_building_map
