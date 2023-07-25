@@ -1,3 +1,9 @@
+numpy
+streamlit
 folium
 requests
 pandas
+IPython.display
+streamlit
+time
+st_aggrid
