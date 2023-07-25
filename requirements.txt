@@ -3,7 +3,7 @@ streamlit
 folium
 requests
 pandas
-ipython.display
+ipython
 streamlit
 time
 st_aggrid
